@@ -1,9 +1,9 @@
 <h1 align="center"><img align="center" src="https://media.giphy.com/media/jof1Ck9hcZIOlQyzDL/giphy.gif" width="64"/> WELCOME TO MY PROFILE! <img align="center" src="https://media.giphy.com/media/jof1Ck9hcZIOlQyzDL/giphy.gif" width="64"/></h1>
 
-<a href="https://github.com/najiimi">
+<a align="center" href="https://github.com/najiimi">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=najiimi&theme=radical&hide_border=true" />
 </a>
-<a href="https://github.com/najiimi">
+<a align="center" href="https://github.com/najiimi">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=najiimi&show_icons=true&theme=radical&hide_border=true" />
 </a>
 
