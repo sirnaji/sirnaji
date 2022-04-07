@@ -3,10 +3,6 @@
 <a align="center" href="https://github.com/najiimi">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=najiimi&theme=radical&hide_border=true" />
 </a>
-<a align="center" href="https://github.com/najiimi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=najiimi&show_icons=true&theme=radical&hide_border=true" />
-</a>
-
 <br>
 <br>
 <br>
