@@ -1,7 +1,7 @@
 ## 🎀 Hi, I'm naji!
 I am a 3D Artist at Hot Toaster *(but we aren't working on a project currently!)*, but also a developer.
 I learned to program with Python, but quickly switched to a front-end web developer for a while.  
-For the past 2 years I've mostly done some small backend services using **Deno** *(https://deno.land)[deno.land] and Typescript.
+For the past 2 years I've mostly done some small backend services using **[Deno](https://deno.land)** and **Typescript**.
 Later this year, I want to gradually learn Rust by using it on very small projects to get the rig.
 
 ## ✨ My projects
