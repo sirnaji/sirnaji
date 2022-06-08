@@ -14,6 +14,6 @@ I am still working on some stuff that may - or may not - show up here soon thoug
 
 Also, here are my super-duper git stats! I love stats.
 
-![git stats](https://github-readme-streak-stats.herokuapp.com/?user=najiimi&theme=radical&hide_border=true)
+![git stats](https://github-readme-streak-stats.herokuapp.com/?user=sirnaji&theme=radical&hide_border=true)
 
-You can send me a message on [Discord](https://discord.com/users/160441146710032393) *(najimi#0009).
+You can send me a message on [Discord](https://discord.com/users/160441146710032393) *(najimi#0009)*.
