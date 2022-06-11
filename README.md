@@ -1,4 +1,4 @@
-## 🎀 ME
+## ABOUT ME
 I am a 3D Artist at Hot Toaster *(but we aren't working on a project currently!)*, but also a developer.
 I learned to program with Python, but quickly switched to a front-end web developer for a while.  
 
@@ -8,7 +8,7 @@ I am currently trying to learn Rust. It's very complicated because I never reall
 I will only use it on small, very simple tools for the moment, and I will continue to use typescript for more or less large projects to be faster for now.
 
 
-## ✨ PROJECTS
+## MY PROJECTS
 Not much to see here at the moment, most of my projects are private.   
 I am still working on some stuff that may - or may not - show up here soon though!
 
