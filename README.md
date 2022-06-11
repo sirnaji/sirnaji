@@ -1,14 +1,17 @@
 ## ABOUT ME
-I am a 3D Artist at Hot Toaster *(but we aren't working on a project currently!)*, but also a developer.
-I learned to program with Python, but quickly switched to a front-end web developer for a while.  
 
-For the past 2 years I've mostly done some small backend services using Nodejs *(but recently moved to **[Deno](https://deno.land)** and **Typescript**)*.
+Hi, I am najimi or naji for short.   
+I am a 3D Artist at Hot Toaster, but twe have yet to release a game.   
 
-I am currently trying to learn Rust. It's very complicated because I never really learned to program before, I used exclusively Javascript and I did a lot of things without thinking about doing things properly. But I am having fun.   
-I will only use it on small, very simple tools for the moment, and I will continue to use typescript for more or less large projects to be faster for now.
+But you can imagine that with this GitHub page, I am also a developer. I'm not the strongest in the field, but I like it.   
+I started by making sites in php/html/css. I hated php. I loved css.   
+But now I mainly develop small backend tools, like APIs or servers for very simple small games (Luo).   
 
+I mainly use Typescript, sometimes but very rarely Python for small simple scripts.   
+I'm learning Rust recently, I find it hard but I have fun making some tools with it.
 
 ## MY PROJECTS
+
 Not much to see here at the moment, most of my projects are private.   
 I am still working on some stuff that may - or may not - show up here soon though!
 
